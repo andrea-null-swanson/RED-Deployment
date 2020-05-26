@@ -1,0 +1,3 @@
+[submodule "aruco-markers"]
+	path = aruco-markers
+	url = https://github.com/andrea-null-swanson/RED-Deployment.git
